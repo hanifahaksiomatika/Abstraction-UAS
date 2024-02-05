@@ -1,0 +1,6 @@
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Abstraction\UAS_Abstraction\bin\Debug\UAS_Abstraction.exe.config
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Abstraction\UAS_Abstraction\bin\Debug\UAS_Abstraction.exe
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Abstraction\UAS_Abstraction\bin\Debug\UAS_Abstraction.pdb
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Abstraction\UAS_Abstraction\obj\Debug\UAS_Abstraction.csprojResolveAssemblyReference.cache
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Abstraction\UAS_Abstraction\obj\Debug\UAS_Abstraction.exe
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Abstraction\UAS_Abstraction\obj\Debug\UAS_Abstraction.pdb
